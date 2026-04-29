@@ -7,6 +7,7 @@ console.log(number);
 console.log(n);
 console.log(Number.parseInt(45.45));
 console.log(Number.parseFloat(57));
+console.log(Number.parseFloat(57).toFixed(2));
 console.log();
 
 console.log(Number.MAX_VALUE);
